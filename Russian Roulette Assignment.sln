@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Russian Roulette Assignment", "Russian Roulette Assignment\Russian Roulette Assignment.csproj", "{D8C6ABA7-8E41-46C6-93AD-3515EE53705E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "Russian Roulette Assignment\UnitTestProject1\UnitTestProject1.csproj", "{F765D619-BCF4-4A6F-AED1-851C2E22E732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C6ABA7-8E41-46C6-93AD-3515EE53705E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C6ABA7-8E41-46C6-93AD-3515EE53705E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C6ABA7-8E41-46C6-93AD-3515EE53705E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C6ABA7-8E41-46C6-93AD-3515EE53705E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F765D619-BCF4-4A6F-AED1-851C2E22E732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F765D619-BCF4-4A6F-AED1-851C2E22E732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F765D619-BCF4-4A6F-AED1-851C2E22E732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F765D619-BCF4-4A6F-AED1-851C2E22E732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D559F94B-AE69-458B-9641-9573C3758C91}
+	EndGlobalSection
+EndGlobal
